@@ -12,7 +12,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center text-center">
-      {/* This header is douplicated because checkers are raising errors */}
+      {/* This header is duplicated because checkers are raising errors when styles are added */}
       <h1> Welcome to Splash App </h1>
       {/* Welcome Message */}
       <h1 className="text-4xl font-bold text-gray-800 mb-4">
